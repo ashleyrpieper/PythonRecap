@@ -32,6 +32,7 @@ mychoice = random.choice(all_verses)
 message = book+chapter+":"+mychoice.text.lstrip()
 
 print(message)
+print(message)
 
 
 
